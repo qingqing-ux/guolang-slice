@@ -1,1 +1,12 @@
-# guolang-slice
+# 果浪之刃（guolang-slice）
+## 项目地址：
+[XBuilder 项目公开链接](https://x.qiniu.com/project/Annie/guolang_slice )
+
+## 项目描述：
+该项目名叫 guolang_slice, 是基于 XBuilder 开发的一部游戏。
+玩家通过鼠标操控刀刃切割水果，切中的水果越多，得分越高。
+若切中炸弹，游戏立即结束；若水果掉落未被切中，血量减少 1，当血量为 0 时游戏结束。
+
+## 操作说明：
+鼠标移动：控制刀刃方向。
+鼠标按下并划动：执行切割操作。

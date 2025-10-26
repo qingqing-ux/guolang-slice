@@ -1,6 +1,6 @@
 # 果浪之刃（guolang-slice）
 ## 项目地址：
-[XBuilder 项目公开链接](https://x.qiniu.com/project/Annie/guolang_slice )
+
 
 ## 项目描述：
 该项目名叫 guolang_slice, 是基于 XBuilder 开发的一部游戏。
